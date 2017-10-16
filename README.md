@@ -1,2 +1,1 @@
-# Aplana
-Обучение java
+# Egor_Che
